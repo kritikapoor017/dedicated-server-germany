@@ -15,7 +15,7 @@
 <li><strong>Hardware:</strong> AMD and Intel Gold CPUs at 4.5–5.7 GHz, DDR5 up to 8200 MHz, and Gen6/Gen7 U.3 and E3.S/E3.L NVMe.</li>
 <li><strong>Network:</strong> Tier IV data centres with 1–10 Gbps ports.</li>
 <li><strong>Support:</strong> Managed hosting options and 15–45 minute hardware replacement.</li>
-<li><strong>Terms:</strong> A 30-day free trial, a 30-day money-back guarantee, and setup fees waived.</li>
+<li><strong>Terms:</strong> Try it free for 30 days. A 30-day money-back guarantee backs every plan, and we waive setup fees.</li>
 </ul>
  
 <h3>2. <strong>DomainRacer</strong>: One of Germany's Well-Known Dedicated Server Providers</h3>
